@@ -54,11 +54,11 @@ Exercises
 **1.1.9** Put the binary representations of a positive integer N into a `String` `s` (including 2 subproblem).
 
 * **Think from the other side.**
-	``` java
-	String s = "";
-	for (int n = N; n > 0; n /= 2)
-		s = (n % 2) + s;
-	```
+``` java
+String s = "";
+for (int n = N; n > 0; n /= 2)
+	s = (n % 2) + s;
+```
 
 
 
