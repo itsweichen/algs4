@@ -51,7 +51,7 @@ Exercises
 ---
 **1.1.3** Compare two strings: `String1.equals(String2)`
 
-**1.1.9** Put the binary representations of a positive integer N into a `String` `s` (including 2 subproblem).
+**1.1.9** Put the binary representations of a positive integer N into a `String` `s` (including 2 subproblems).
 
 * **Think from the other side.**
 ```java
